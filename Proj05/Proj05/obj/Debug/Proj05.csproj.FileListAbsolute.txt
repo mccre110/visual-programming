@@ -1,0 +1,10 @@
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\bin\Debug\Proj05.exe.config
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\bin\Debug\Proj05.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\bin\Debug\Proj05.pdb
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.csprojResolveAssemblyReference.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.Form1.resources
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.Properties.Resources.resources
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.csproj.GenerateResource.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.csproj.CoreCompileInputs.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj05\Proj05\obj\Debug\Proj05.pdb

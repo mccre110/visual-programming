@@ -1,0 +1,17 @@
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.exe.config
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.pdb
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.csprojResolveAssemblyReference.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.Properties.Resources.resources
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.csproj.GenerateResource.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.csproj.CoreCompileInputs.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.pdb
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.exe.config
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\bin\Debug\Proj06.pdb
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.Properties.Resources.resources
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.csproj.GenerateResource.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.csproj.CoreCompileInputs.cache
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.exe
+C:\Users\tcmcc\OneDrive\Documents\Chapman\Semester 2\CPSC 236\Proj06\Proj06\obj\Debug\Proj06.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRestaurant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Restaurant>
+    <location>Orange</location>
+    <price>$$</price>
+    <rating>3.9</rating>
+    <rname>Bruxie</rname>
+  </Restaurant>
+  <Restaurant>
+    <location>Tustin</location>
+    <price>$</price>
+    <rating>4.1</rating>
+    <rname>Wahoo's</rname>
+  </Restaurant>
+  <Restaurant>
+    <location>Orange</location>
+    <price>$</price>
+    <rating>4.12</rating>
+    <rname>Pizza Press</rname>
+  </Restaurant>
+  <Restaurant>
+    <location>Tustin</location>
+    <price>$$</price>
+    <rating>3.7</rating>
+    <rname>Gen</rname>
+  </Restaurant>
+</ArrayOfRestaurant>

@@ -1,0 +1,7 @@
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\bin\Debug\Proj04.exe.config
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\bin\Debug\Proj04.exe
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\bin\Debug\Proj04.pdb
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\obj\Debug\Proj04.csprojResolveAssemblyReference.cache
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\obj\Debug\Proj04.csproj.CoreCompileInputs.cache
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\obj\Debug\Proj04.exe
+c:\users\tcmcc\OneDrive\Documents\Chapman\CPSC 236\Proj04\Proj04\obj\Debug\Proj04.pdb

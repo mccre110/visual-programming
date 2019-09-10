@@ -1,0 +1,7 @@
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\obj\Debug\Proj02.csprojResolveAssemblyReference.cache
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\obj\Debug\Proj02.csproj.CoreCompileInputs.cache
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\bin\Debug\Proj02.exe.config
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\bin\Debug\Proj02.exe
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\bin\Debug\Proj02.pdb
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\obj\Debug\Proj02.exe
+c:\users\tcmcc\documents\visual studio 2017\Proj02\Proj02\obj\Debug\Proj02.pdb
